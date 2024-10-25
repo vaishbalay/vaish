@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I am a software developer with a Master’s degree
 Here’s a snapshot of my GitHub activity:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishbalay&show_icons=true&theme=radical) 
-### Top Languages
+## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbalay&layout=compact&theme=radical) 
 
